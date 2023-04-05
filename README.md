@@ -1,2 +1,4 @@
-# login-create-account-change-password-project
-This is a code for an app to create accounts and put then in your data base
+If u want to run the code and dont have errors u need to install:
+1. pip install tkinter
+2. pip install pymysql
+3. pip instal PIL
